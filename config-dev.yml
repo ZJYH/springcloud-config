@@ -4,7 +4,7 @@ spring:
     name: config-dev
 
 config:
-  info: config-dev-1.0-good6.0
+  info: config-dev-1.0-good7.0
 
 eureka:
   instance:
