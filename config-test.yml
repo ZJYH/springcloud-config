@@ -1,9 +1,9 @@
-
-
 spring:
   application:
     name: config-test
 
+config:
+  info: config-test-1.0-nice
 
 eureka:
   instance:
