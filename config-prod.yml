@@ -1,9 +1,9 @@
-
-
 spring:
   application:
     name: config-prod
 
+config:
+  info: config-prod-1.0-nice
 
 eureka:
   instance:
