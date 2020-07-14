@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: config-dev
+    name: config-dev-1.0
 
 
 eureka:
